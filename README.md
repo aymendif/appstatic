@@ -1,1 +1,2 @@
 # appstatic
+ok
